@@ -1,1 +1,1 @@
-Modify first line of second file in a different way
+Modify first line of second file
